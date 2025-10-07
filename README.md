@@ -13,4 +13,3 @@ GitHub Actions is used for continuous integration, defined in `.github/workflows
 ## My Contribution
 Added required text files, CI setup and confirmed CI runs successfully on my branch.
 _Last updated by Melissa Paksoy, 100966275_
-Added required text files and confirmed CI runs successfully on my branch.

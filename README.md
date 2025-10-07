@@ -3,6 +3,7 @@
 ## Group Members
 - **Leader:** Melissa Paksoy (100966275) – [GitHub](https://github.com/melissapaksoy)
 - **Memeber 2:** Kashfi Mehbuba (101474002) - [Github](https://github.com/kashfimehbuba77)
+- **Memeber 3:** Meric Yassine (101503213) - [Github](https://github.com/meric-yassine)
 
 ## Project Description
 This repository contains the COMP3104 DevOps Group Assignment.  

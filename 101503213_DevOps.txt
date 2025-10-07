@@ -5,3 +5,9 @@ COMP 3104 is one of the most practical courses this semester!
 It teaches us how developers and IT operations work together to make 
 software updates faster and smoother — basically, DevOps is teamwork 
 + automation. 
+
+We’re learning to use GitHub, branches, and CI/CD tools like 
+GitHub Actions to keep our code organized and always tested. 
+It’s cool because it feels like we’re working the same way real 
+software teams do in tech companies.
+

@@ -2,6 +2,7 @@
 
 ## Group Members
 - **Leader:** Melissa Paksoy (100966275) – [GitHub](https://github.com/melissapaksoy)
+- **Memeber 2:** Kashfi Mehbuba (101474002) - [Github](https://github.com/kashfimehbuba77)
 
 ## Project Description
 This repository contains the COMP3104 DevOps Group Assignment.  
@@ -13,3 +14,6 @@ GitHub Actions is used for continuous integration, defined in `.github/workflows
 ## My Contribution
 Added required text files, CI setup and confirmed CI runs successfully on my branch.
 _Last updated by Melissa Paksoy, 100966275_
+
+Created my own branch '101474003-Kashfi', added required txt files and merged them into main branch.
+_Last updated by Kashfi Mehbuba, 101474002_

@@ -4,6 +4,6 @@ software faster, detect issues early, and maintain reliable, high-quality
 systems throughout the development cycle.
 
 -For me, understanding DevOps is especially valuable because it connects 
-both the creative and technical sides of software development — allowing 
+both the creative and technical sides of software development and allowing 
 me to build projects that are not only functional but also efficiently 
 managed and scalable in real-world environments.

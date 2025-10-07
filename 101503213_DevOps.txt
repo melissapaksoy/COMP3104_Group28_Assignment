@@ -1,0 +1,7 @@
+COMP 3104 is a DevOps course I'm taking in my 5th semester of T177 
+Computer Programming and Technology program at George Brown College.
+
+COMP 3104 is one of the most practical courses this semester! 
+It teaches us how developers and IT operations work together to make 
+software updates faster and smoother — basically, DevOps is teamwork 
++ automation. 

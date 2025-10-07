@@ -2,8 +2,8 @@
 
 ## Group Members
 - **Leader:** Melissa Paksoy (100966275) – [GitHub](https://github.com/melissapaksoy)
-- **Memeber 2:** Kashfi Mehbuba (101474002) - [Github](https://github.com/kashfimehbuba77)
-- **Memeber 3:** Meric Yassine (101503213) - [Github](https://github.com/meric-yassine)
+- **Member 2:** Kashfi Mehbuba (101474002) - [Github](https://github.com/kashfimehbuba77)
+- **Member 3:** Meric Yassine (101503213) - [Github](https://github.com/meric-yassine)
 
 ## Project Description
 This repository contains the COMP3104 DevOps Group Assignment.  
@@ -18,3 +18,6 @@ _Last updated by Melissa Paksoy, 100966275_
 
 Created my own branch '101474003-Kashfi', added required txt files and merged them into main branch.
 _Last updated by Kashfi Mehbuba, 101474002_
+
+Created my own branch '101503213-Meric', added required text files and and verified the CI pipeline ran successfully.
+_Last updated by Meric Yassine, 101503213_

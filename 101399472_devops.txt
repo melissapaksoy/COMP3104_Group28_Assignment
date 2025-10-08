@@ -1,3 +1,5 @@
 COMP3104 – DevOps teaches us collaboration between development and operations.
 We use Git, GitHub Actions, CI/CD, and automation to improve software delivery.
 I learned how continuous integration helps maintain code quality.
+We also use GitHub Actions to automate checks so code is tested on every push and pull request.
+

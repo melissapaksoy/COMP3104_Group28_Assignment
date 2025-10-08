@@ -1,0 +1,12 @@
+DevOps plays a huge role in modern software development. 
+Instead of waiting weeks to release updates, teams using DevOps can 
+push new features out almost instantly. 
+It connects every stage of the SDLC — from coding and testing to 
+deployment and monitoring — so nothing gets stuck along the way. 
+In short, DevOps helps everyone work smarter, not harder, and keeps 
+customers happy with faster, more reliable updates.
+
+I'm grateful to be a part of this DevOps course, as it prepares me for 
+real-world software development jobs. The SDLC is the core of 
+successful projects
+

@@ -8,4 +8,4 @@ Knowledge of automation tools, monitoring, and infrastructure management allows 
 
 By understanding DevOps, developers gain a holistic view of the software lifecycle, 
 ensuring high-quality, maintainable, and production-ready applications while enhancing 
-their career competitiveness in today’s fast-paced tech environment.
+their career competitiveness in today’s fast-paced tech environment. 

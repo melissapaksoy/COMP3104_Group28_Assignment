@@ -4,7 +4,7 @@
 - **Leader:** Melissa Paksoy (100966275) – [GitHub](https://github.com/melissapaksoy)
 - **Member 2:** Kashfi Mehbuba (101474002) - [Github](https://github.com/kashfimehbuba77)
 - **Member 3:** Meric Yassine (101503213) - [Github](https://github.com/meric-yassine)
-- **Member 4:**Alisha Humagain (101399472)** – [Alisha-cyber](https://github.com/Alisha-cyber)
+- **Member 4:** Alisha Humagain (101399472) – [Github](https://github.com/Alisha-cyber)
 
 
 ## Project Description
@@ -24,7 +24,7 @@ _Last updated by Kashfi Mehbuba, 101474002_
 Created my own branch '101503213-Meric', added required text files and and verified the CI pipeline ran successfully.
 _Last updated by Meric Yassine, 101503213_
 
-Created my own branch '101399472-Meric', added required text files and and verified the CI pipeline ran successfully.
+Created my own branch '101399472-Alisha', added required text files and and verified the CI pipeline ran successfully.
 _Last updated by Alisha Humagain, 101399472_
 
 

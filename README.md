@@ -15,7 +15,7 @@ It demonstrates Git branching, teamwork, and CI/CD integration using GitHub Acti
 GitHub Actions is used for continuous integration, defined in `.github/workflows/ci.yml`.
 
 ## My Contribution
-Added required text files, CI setup and confirmed CI runs successfully on my branch.
+Added required text files, CI setup, pull_request_template file and confirmed CI runs successfully on my branch.
 _Last updated by Melissa Paksoy, 100966275_
 
 Created my own branch '101474003-Kashfi', added required txt files and merged them into main branch.

@@ -4,7 +4,7 @@
 - **Leader:** Melissa Paksoy (100966275) – [GitHub](https://github.com/melissapaksoy)
 - **Member 2:** Kashfi Mehbuba (101474002) - [Github](https://github.com/kashfimehbuba77)
 - **Member 3:** Meric Yassine (101503213) - [Github](https://github.com/meric-yassine)
-- **Member 4:**Alisha Humagain (101399472)** – [Alisha-cyber](https://github.com/Alisha-cyber)
+- **Member 4:**Alisha Humagain (101399472)** – [Github](https://github.com/Alisha-cyber)
 
 
 ## Project Description
